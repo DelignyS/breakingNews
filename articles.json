@@ -1,0 +1,12 @@
+[
+	{
+		"id": 1,
+		"title": "Nouveau titre 1",
+		"url": "news.fr/article-1"
+	},
+	{
+		"id": 2,
+		"title": "News 2",
+		"url": "news.fr/article-2"
+	}
+]
